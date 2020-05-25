@@ -10,9 +10,6 @@ end
 
 def input_to_index(input)
   converted_input=input.to_i
-  def number_subtractor(converted_input)
-  converted_input -= new_converted_input  
-end
 end
 
 def move()
