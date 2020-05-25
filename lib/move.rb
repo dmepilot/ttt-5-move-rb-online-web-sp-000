@@ -11,6 +11,8 @@ end
 def input_to_index(input)
   converted_input=input.to_i
   converted_input -= 1
-en="X")
-  board[]#{converted_input}= #{token}
+
+
+def move(board, converted_input, char="X")
+  board[]#{converted_input}= #{char}
 end
